@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# Dhruvraj's Portfolio
 
 Welcome to my portfolio website! This site serves as a showcase of my projects and skills. Feel free to explore and learn more about my work.
 
