@@ -35,7 +35,7 @@ If you'd like to contribute to this project, please follow these steps:
 5. Submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 Feel free to reach out to me if you have any questions or suggestions:
