@@ -544,6 +544,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
+.card-img-top-1 {
+    width: 60%;
+    height: auto;
+    margin-left: 100px;
+    border-radius: 5px;
+}
 
 .card-body {
     padding: 20px;
@@ -589,7 +595,19 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     color: #636a82;
     resize: none;
 }
-
+.contact-form .form-control-1 {
+    padding: 25px;
+    height: 155px;
+    width: 460px;
+    font-size: 14px;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    box-shadow: none;
+    outline: 0!important;
+    background: #fff;
+    color: #636a82;
+    resize: none;
+}
 /*--contct button--*/
 .contact-form .single-contact-btn {
     display:flex;
