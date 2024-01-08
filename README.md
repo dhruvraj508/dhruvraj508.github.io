@@ -37,6 +37,9 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
+## Credits
+The template for this website is taken from [free-css.com](https://www.free-css.com/free-css-templates/page296/browny)
+
 ## Contact
 Feel free to reach out to me if you have any questions or suggestions:
 - Email: dhruvraj@ualberta.ca
